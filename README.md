@@ -168,4 +168,22 @@ if __name__ == '__main__':
 
 ## Impactos, Benefícios e Limitações do uso de cache
 
+### Impactos
+
+O cache ajuda a reduzir a carga no servidor, diminuindo o número de solicitações e consultas ao banco de dados. Isso pode levar a uma utilização mais eficiente dos recursos do servidor e uma melhor escalabilidade da aplicação.
+
+### Limitações
+
+O cache pode levar à inconsistência dos dados se não for gerenciado corretamente. Se os dados em cache não forem atualizados com frequência suficiente, os usuários podem receber informações desatualizadas, o que pode levar a problemas de integridade e confiabilidade dos dados.
+
+### Benefícios
+
+Uma das maiores vantagens do uso de cache em aplicações REST é a melhoria significativa no desempenho. Ao armazenar em cache recursos frequentemente acessados, reduzimos a necessidade de consultas repetitivas ao servidor, o que resulta em tempos de resposta mais rápidos e uma experiência de usuário mais ágil.
+
+## Contribuições
+
+**Augusto Koshiyama Bento**: leitura dos artigos; auxílio na implementação do código e das rotas dos produtos; criação e composição do tutorial
+**Gabriel Moreira Cabral**: implementação do código e das estratégias de cache; auxílio na composição do tutorial.
+
+
 
