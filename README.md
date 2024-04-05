@@ -1,4 +1,7 @@
-# Integrantes: Augusto Koshiyama Bento e Gabriel Moreira Cabral
+# Integrantes 
+
+**Augusto Koshiyama Bento RA: 10389981**
+**Gabriel Moreira Cabral RA: 10332634**
 
 # Explorando o cache de HTTP em aplicações REST
 
