@@ -190,7 +190,7 @@ Uma das maiores vantagens do uso de cache em aplicações REST é a melhoria sig
 
 **Augusto Koshiyama Bento**: leitura dos artigos; auxílio na implementação do código e das rotas dos produtos; criação e composição do tutorial
 
-**Gabriel Moreira Cabral**: implementação do código e das estratégias de cache; auxílio na composição do tutorial.
+**Gabriel Moreira Cabral**: leitura dos artigos; implementação do código e das estratégias de cache.
 
 
 
