@@ -1,4 +1,4 @@
-#Integrantes: Augusto Koshiyama Bento e Gabriel Moreira Cabral
+# Integrantes: Augusto Koshiyama Bento e Gabriel Moreira Cabral
 
 # Explorando o cache de HTTP em aplicações REST
 
