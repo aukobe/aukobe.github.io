@@ -1,3 +1,5 @@
+#Integrantes: Augusto Koshiyama Bento e Gabriel Moreira Cabral
+
 # Explorando o cache de HTTP em aplicações REST
 
 Neste tutorial, vamos aprender como implementar cache em uma aplicação REST usando Python e Flask. Utilizaremos a extensão Flask-Caching para configurar o cache e demonstraremos como aplicá-lo em rotas específicas para melhorar o desempenho da nossa aplicação.
